@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+h1{
+  
+}
+div{
+  color:grey;
+  text-align:center;
+}
+button{
+  height:20px;
+  width: 20%;
+}
