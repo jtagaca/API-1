@@ -1,0 +1,36 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-client-dev-203359-authRole",
+            "UnauthRoleArn": "arn:aws:iam::115625491345:role/amplify-client-dev-203359-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::115625491345:role/amplify-client-dev-203359-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-client-dev-203359-deployment",
+            "UnauthRoleName": "amplify-client-dev-203359-unauthRole",
+            "StackName": "amplify-client-dev-203359",
+            "StackId": "arn:aws:cloudformation:us-east-1:115625491345:stack/amplify-client-dev-203359/9c0b2e90-903f-11eb-8731-0ad4194c8c9d",
+            "AmplifyAppId": "d1hhwq2fmctufw"
+        }
+    },
+    "jamest": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-client-jamest-204048-authRole",
+            "UnauthRoleArn": "arn:aws:iam::303062045729:role/amplify-client-jamest-204048-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::303062045729:role/amplify-client-jamest-204048-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-client-jamest-204048-deployment",
+            "UnauthRoleName": "amplify-client-jamest-204048-unauthRole",
+            "StackName": "amplify-client-jamest-204048",
+            "StackId": "arn:aws:cloudformation:us-east-1:303062045729:stack/amplify-client-jamest-204048/8f7af9c0-9040-11eb-b23a-0e3b177c99d5",
+            "AmplifyAppId": "d1199xc3ioo5rn"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d1199xc3ioo5rn",
+                    "type": "manual"
+                }
+            }
+        }
+    }
+}
